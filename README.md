@@ -135,4 +135,4 @@ Lista de tarefas
 
 > Será usado um serviço da AWS chamado [Cognito](https://aws.amazon.com/pt/cognito/) que gerencia cadastros, logins, acessos e permissões de usuário, utilizado em diversas plataformas importantes.
 
-> Será utilizado Docker para subir as aplicações na AWS 
+> Será utilizado Docker para subir as aplicações na AWS, Python no Backend, ReactJs no Frontend se for preciso, PostgreSQL, Cassandra, Redis para os bancos das bases A,B,C, ElasticSearch para registrar os acessos das bases A e B.
